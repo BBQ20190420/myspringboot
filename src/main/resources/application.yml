@@ -1,0 +1,14 @@
+#server:
+#  port: 8090
+#
+#
+#person:
+#  name: jack
+#  age: 10
+#  boss: false
+#  birth: 2018/12/26
+#  maps: {k1:v1,k2:12}
+#  lists: [mm,nn]
+#  dog:
+#    name: 旺财
+#    age: 2
